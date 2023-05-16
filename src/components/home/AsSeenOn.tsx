@@ -1,6 +1,5 @@
 import Companies from "../../assets/images/companies.png";
 import Logo from "../../assets/images/logo.png";
-import { motion } from "framer-motion";
 
 type Props = {};
 

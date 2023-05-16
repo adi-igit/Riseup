@@ -3,7 +3,7 @@ import { BiEditAlt } from "react-icons/bi";
 
 type Props = {};
 
-const WatchlistComponent = (props: Props) => {
+const WatchlistComponent = ({}: Props) => {
   return (
     <div className="bg-white rounded-[10px] p-5 flex flex-col lg:flex-row items-center justify-between">
       <h1 className="text-2xl font-bold">Watchlist</h1>

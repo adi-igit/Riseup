@@ -7,7 +7,7 @@ import HusdIcon from "../../assets/icons/husd-icon.png";
 
 type Props = {}
 
-const TopCryptos = (props: Props) => {
+const TopCryptos = ({}: Props) => {
   return (
     <div className="mt-10 bg-white flex flex-wrap lg:justify-between p-5 rounded-[10px]">
     <div className="bg-[#FAFBFE] w-full lg:w-[280px] p-2 rounded-[10px]">

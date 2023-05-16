@@ -9,7 +9,7 @@ import { motion } from "framer-motion";
 
 type Props = {};
 
-const Home = (props: Props) => {
+const Home = ({}: Props) => {
   return (
     <motion.div
       initial={{ opacity: 0 }}

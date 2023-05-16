@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 
 type Props = {};
 
-const History = (props: Props) => {
+const History = ({}: Props) => {
   return (
     <motion.div
       initial={{ opacity: 0 }}

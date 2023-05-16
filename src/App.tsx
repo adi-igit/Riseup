@@ -1,6 +1,6 @@
 type Props = {}
 
-const App = (props: Props) => {
+const App = ({}: Props) => {
   return (
     <></>
   )
