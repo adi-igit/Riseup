@@ -5,7 +5,7 @@ type Props = {};
 
 const AddFund = ({}: Props) => {
   return (
-    <div className="mt-10 lg:mt-0 ml-10 bg-white rounded-[10px] p-5">
+    <div className="mt-10 lg:mt-0 ml-8 w-max bg-white rounded-[10px] p-5">
       <h2 className="text-2xl font-bold pb-5 border-b">Add Fund</h2>
       <div className="mt-5 flex justify-between">
         <div>

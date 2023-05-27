@@ -11,7 +11,7 @@ const PortfolioComponent = ({}: Props) => {
         <span>$ 8,000.05</span>
       </div>
       <div className="md:w-[300px] h-max">
-        <div className="flex">
+        <div className="mt-5 flex">
           <h3 className="font-bold">Total Investment</h3>
           <span className="ml-auto text-gray-400">$ 12,652.93</span>
         </div>

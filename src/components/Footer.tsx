@@ -10,7 +10,7 @@ type Props = {};
 const Footer = ({}: Props) => {
   return (
     <footer className="mt-[100px] border-t">
-      <div className="my-5 lg:my-10 flex flex-col lg:flex-row items-center lg:justify-between px-5 lg:px-10">
+      <div className="my-5 lg:my-10 ml-5 flex flex-col lg:flex-row items-start lg:justify-between lg:px-10">
         <div className="w-full lg:mr-20">
           <div className="flex items-center">
             <img src={Logo} alt="logo-img" className="w-14" />
@@ -55,7 +55,7 @@ const Footer = ({}: Props) => {
           <p className="font-bold">Feedback</p>
         </div>
       </div>
-      <div className="py-10 lg:py-[50px] mx-20 lg:border-t">
+      <div className="py-10 lg:py-[50px] ml-5 lg:border-t">
         <h5 className="lg:mt-10">&copy; All Rights reserved to RiseUp</h5>
       </div>
     </footer>

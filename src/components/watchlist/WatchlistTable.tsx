@@ -27,7 +27,7 @@ const WatchlistTable = ({}: Props) => {
           cryptoIcon={`${BitcoinIcon}`}
           cryptoAlt="bitcoin-icon"
           name="Bitcoin/BTC"
-          price="$ 25,592.80"
+          price="$ 25,52.80"
           priceInBtc="₿ 1"
           within24h="-2.61%"
           within7d="-9.79%"

@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import Logo from "../assets/images/logo.png";
 import { useState } from "react";
 import { CgClose } from "react-icons/cg";
-import QrCode from "../assets/images/qr-code.png";
+import QrCode from '../assets/images/qr-code.png'
 import { motion } from "framer-motion";
 
 type Props = {};
@@ -90,7 +90,7 @@ function Login({}: Props) {
         >
           <div className="w-max mx-auto flex items-center">
             <Link to="/">
-              <img src={Logo} alt="logo" className="w-20" />
+              <img src={Logo} alt="logo" className="w-14" />
             </Link>
             <h2 className="ml-2 text-2xl font-bold text-blue-500">Rise Up</h2>
           </div>

@@ -13,7 +13,7 @@ const Register = ({}: Props) => {
       className="bg-[#EEF7FF] min-h-[100vh] pb-10 lg:pb-0 lg:h-screen">
       <div className="w-max mx-auto flex items-center">
         <Link to='/'>
-          <img src={Logo} alt="logo" className="w-20" />
+          <img src={Logo} alt="logo" className="w-14" />
         </Link>
         <h2 className="ml-2 text-2xl font-bold text-blue-500">Rise Up</h2>
       </div>
