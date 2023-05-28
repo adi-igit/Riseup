@@ -2,6 +2,14 @@
 
 ## Getting started
 
+clone the project:
+
+```
+git clone https://github.com/AdiletGylzhigit/riseup-crypto-web.git
+#or
+fot ssh: git@github.com:AdiletGylzhigit/riseup-crypto-web.git
+```
+
 run the following command:
 
 ```bash
